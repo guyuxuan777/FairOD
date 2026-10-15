@@ -1,0 +1,12 @@
+# Local filesystem artifacts
+**/.DS_Store
+**/__pycache__/
+*.py[cod]
+
+# Internal preparation notes
+Shanghai_metro/dataset_description.txt
+Shanghai_metro/dataset_description_中文.txt
+
+# Files too large for GitHub LFS single-file limits
+Shanghai_metro/MetroFlow/metroData_ODFlow_10.csv
+Shanghai_metro/processed/od.npy

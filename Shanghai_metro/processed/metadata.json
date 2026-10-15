@@ -1,0 +1,110 @@
+{
+  "station_count": 302,
+  "od_rows_raw": 267318222,
+  "od_rows_kept": 267276874,
+  "od_rows_excluded_incomplete_dates": 41348,
+  "od_duplicate_keys_within_chunks": 0,
+  "od_flow_sum_all_source_rows": 713808506,
+  "flow_min": 1,
+  "flow_max": 788,
+  "negative_flow_rows": 0,
+  "flow_component_mismatch_rows": 0,
+  "original_dates": 123,
+  "complete_dates_kept": 117,
+  "incomplete_dates_excluded": [
+    "20170504",
+    "20170508",
+    "20170509",
+    "20170616",
+    "20170627",
+    "20170628"
+  ],
+  "slots_per_service_day": 102,
+  "window_seconds": 600,
+  "windows": 11934,
+  "active_service_hours": "06:00-23:00 local time (102 ten-minute bins per day)",
+  "time_split": {
+    "train_end": 8353,
+    "val_end": 10143,
+    "total": 11934,
+    "train_samples": 7861,
+    "validation_samples": 1682,
+    "test_samples": 1689,
+    "history": 6,
+    "horizon": 1,
+    "ratios": {
+      "train": 0.7,
+      "validation": 0.15,
+      "test": 0.15
+    },
+    "continuity_rule": "all 6 history intervals and target must be exactly 10 minutes apart; samples never cross overnight gaps"
+  },
+  "station_economics": {
+    "station_count": 302,
+    "housing_rows_raw": 17590,
+    "housing_rows_valid_coordinates_and_price": 17589,
+    "housing_rows_inside_city_bounds": 17579,
+    "housing_rows_removed_outside_city_bounds": 10,
+    "housing_rows_without_price_or_coordinates": 1,
+    "match_radius_m": 800.0,
+    "matched_stations": 279,
+    "unmatched_stations": 23,
+    "housing_matches_total": 13728,
+    "matches_per_labeled_station": {
+      "minimum": 1,
+      "median": 30.0,
+      "maximum": 300
+    },
+    "station_price_median_threshold": 60316.5,
+    "groups": {
+      "0_economically_advantaged_higher_price": 140,
+      "1_economically_disadvantaged_lower_price": 139,
+      "-1_unknown": 23
+    },
+    "station_topology_edges_undirected": 349,
+    "invalid_neighbor_ids": [],
+    "coordinate_assumptions": {
+      "station_coordinates": "CRS is not declared; local station coordinates are treated as WGS84-compatible based on comparison with public map coordinates (inference)",
+      "housing_coordinates": "Baidu Maps coordinates treated as BD-09 and converted approximately to WGS84",
+      "housing_coordinate_conversion": "BD-09 -> GCJ-02 -> approximate inverse GCJ-02 -> WGS84",
+      "city_bounds_wgs84": {
+        "longitude": [
+          120.8,
+          122.2
+        ],
+        "latitude": [
+          30.6,
+          31.9
+        ]
+      }
+    }
+  },
+  "dataset": "Shanghai MetroFlow + Shanghai Housing Prices",
+  "date_start": "2017-05-01",
+  "date_end_exclusive": "2017-09-01",
+  "data_files": {
+    "od": "od.npy",
+    "static": "static.npz",
+    "timestamps": "timestamps.npy",
+    "time_index": "time_index.csv",
+    "station_index": "station_index.csv",
+    "station_economic_attributes": "station_economic_attributes.csv",
+    "housing_station_matches": "housing_station_matches.csv"
+  },
+  "od_semantics": "directed count of passenger trips; absent station-pair rows in a documented complete sparse time bin mean zero flow",
+  "housing_price_source": "2017 AnJuKe residential-estate average price; published source does not specify a unit in the local file description, so only relative station-level rankings are used",
+  "label_definition": {
+    "group_0": "economically advantaged proxy: station housing-price median >= median over all labeled station medians",
+    "group_1": "economically disadvantaged proxy: station housing-price median < median over all labeled station medians",
+    "group_minus_1": "unknown: no valid residential complex within 800 m",
+    "median_tie_rule": "ties assigned to group 0",
+    "fairod_mapping": "group 0 is advantaged; group 1 is disadvantaged; -1 is excluded from group fairness gaps"
+  },
+  "warnings": [
+    "The 2017 housing-price proxy is an area-level context attribute, not a passenger income label.",
+    "Station CRS is not declared in the local MetroFlow file; WGS84 compatibility is inferred from a public-coordinate spot check.",
+    "Baidu housing coordinates are converted approximately from BD-09 to WGS84 before spatial matching.",
+    "All Shanghai housing records outside the documented city bounding box and one row with missing values are excluded.",
+    "The OD tensor stores only the 117 complete days; overnight gaps remain explicit in timestamps and are excluded from temporal windows."
+  ]
+}

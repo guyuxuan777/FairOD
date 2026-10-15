@@ -1,0 +1,303 @@
+﻿node_index,original_station_id,station_name,longitude,latitude,housing_price_median,housing_record_count,match_radius_m,economic_group,economic_group_description,economic_attribute_valid,economic_vulnerability_percentile
+0,2048,Longcao Road,121.439715575,31.171622034,70358.0,73,800.0,0,economically_advantaged_higher_local_housing_price,True,0.2437276
+1,2049,Pudian Road,121.527848943,31.224457288000004,75771.0,45,800.0,0,economically_advantaged_higher_local_housing_price,True,0.17562725
+2,2050,Jing'an Temple,121.441840398,31.225058466,107450.0,192,800.0,0,economically_advantaged_higher_local_housing_price,True,0.017921148
+3,2051,Yishan Road,121.422615594,31.188486856,87764.0,114,800.0,0,economically_advantaged_higher_local_housing_price,True,0.05734767
+4,2052,Longyang Road,121.552971357,31.205156342,80191.0,24,800.0,0,economically_advantaged_higher_local_housing_price,True,0.11111111
+5,2053,Xintiandi,121.470561773,31.218292459,109318.0,155,800.0,0,economically_advantaged_higher_local_housing_price,True,0.014336918
+6,2054,Jiangsu Road,121.427966595,31.221768963,97442.5,110,800.0,0,economically_advantaged_higher_local_housing_price,True,0.032258064
+7,2055,Caoyang Road,121.413156251,31.241192686,63503.0,85,800.0,0,economically_advantaged_higher_local_housing_price,True,0.4050179
+8,2056,South Shaanxi Road,121.455464091,31.21914496,117878.0,281,800.0,0,economically_advantaged_higher_local_housing_price,True,0.007168459
+9,2057,Longde Road,121.418836726,31.232586009,66938.0,80,800.0,0,economically_advantaged_higher_local_housing_price,True,0.3154122
+10,508,Jianchuan Road,121.411962619,31.028392219,41876.5,16,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.86021507
+11,1043,Hongqiao Terminal 1,121.342591804,31.193518019000003,,0,800.0,-1,unknown_no_housing_match,False,
+12,1044,Shanghai Zoo,121.363529229,31.192230792,55935.5,22,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.64157706
+13,1045,Longxi Road,121.375244457,31.196193522,57735.0,22,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.5878136
+14,512,Wenjing Road,121.376150158,31.005526962,,0,800.0,-1,unknown_no_housing_match,False,
+15,1047,Yili Road,121.39921421,31.201064069,67754.5,28,800.0,0,economically_advantaged_higher_local_housing_price,True,0.28673837
+16,1048,Songyuan Road,121.407543286,31.198348293,66666.0,39,800.0,0,economically_advantaged_higher_local_housing_price,True,0.33512545
+17,1628,Shanghai Wild Animal Park,121.695438606,31.052487249,,0,800.0,-1,unknown_no_housing_match,False,
+18,943,Middle Yanggao Road,121.544387644,31.229674097,86624.0,25,800.0,0,economically_advantaged_higher_local_housing_price,True,0.068100356
+19,1626,Hangtou East,121.613286958,31.05724005,,0,800.0,-1,unknown_no_housing_match,False,
+20,1055,Yuyuan Garden,121.482864468,31.229964559000003,78643.0,98,800.0,0,economically_advantaged_higher_local_housing_price,True,0.13978495
+21,1058,North Sichuan Road,121.479642061,31.253898054,60389.0,45,800.0,0,economically_advantaged_higher_local_housing_price,True,0.49462366
+22,1627,Xinchang,121.644868866,31.04780769,,0,800.0,-1,unknown_no_housing_match,False,
+23,1060,Youdian Xincun,121.489789828,31.270427704,66455.0,42,800.0,0,economically_advantaged_higher_local_housing_price,True,0.3405018
+24,1062,Tongji University,121.501792382,31.283944779,67567.0,53,800.0,0,economically_advantaged_higher_local_housing_price,True,0.29032257
+25,1064,Wujiaochang,121.510067542,31.2997292,65254.0,61,800.0,0,economically_advantaged_higher_local_housing_price,True,0.37634408
+26,1065,Jiangwan Stadium,121.509729601,31.305442827,66674.0,49,800.0,0,economically_advantaged_higher_local_housing_price,True,0.3297491
+27,1066,Sanmen Road,121.50401182,31.315050515,64269.5,34,800.0,0,economically_advantaged_higher_local_housing_price,True,0.39426523
+28,1067,East Yingao Road,121.502525459,31.323799384,80765.0,19,800.0,0,economically_advantaged_higher_local_housing_price,True,0.103942655
+29,1068,New Jiangwan City,121.502697658,31.33112066,88706.0,11,800.0,0,economically_advantaged_higher_local_housing_price,True,0.05376344
+30,1629,Huinan,121.757556095,31.055964545,32086.5,30,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.94623655
+31,1246,Donglu Road,121.57507366,31.284688952,53603.5,26,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.68458784
+32,513,Minhang Development Zone,121.365118845,31.002572281,33142.5,16,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.94265234
+33,1630,Huinan East,121.789523971,31.02841678,,0,800.0,-1,unknown_no_housing_match,False,
+34,837,Zhongxing Road,121.464500701,31.255223204,62711.0,121,800.0,0,economically_advantaged_higher_local_housing_price,True,0.43010753
+35,1161,Xiuyan Road,121.594253458,31.140388537,42568.0,6,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.83870965
+36,1631,Shuyuan,121.846216134,30.961601584,,0,800.0,-1,unknown_no_housing_match,False,
+37,1632,Lingang Avenue,121.90670309,30.925884482,,0,800.0,-1,unknown_no_housing_match,False,
+38,1159,Yuqiao,121.566686634,31.160429607,57397.0,24,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.5985663
+39,2031,Madang Road,121.472724523,31.211562334,86250.0,169,800.0,0,economically_advantaged_higher_local_housing_price,True,0.07168459
+40,1622,Middle Huaxia Road,121.578857186,31.178233461,,0,800.0,-1,unknown_no_housing_match,False,
+41,1156,East Sanlin,121.518661386,31.148597133000003,61349.0,31,800.0,0,economically_advantaged_higher_local_housing_price,True,0.4767025
+42,1162,Kangxin Highway,121.613030242,31.132655073,,0,800.0,-1,unknown_no_housing_match,False,
+43,1624,East Zhoupu,121.602754092,31.112309544,42241.0,1,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.8494624
+44,1625,Hesha Hangcheng,121.607093362,31.079974585,37849.0,1,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.9139785
+45,1114,Huaqiao,121.099702972,31.300398755,,0,800.0,-1,unknown_no_housing_match,False,
+46,1115,Guangming Road,121.112634001,31.298066751,,0,800.0,-1,unknown_no_housing_match,False,
+47,1116,Zhaofeng Road,121.145740322,31.290849897,25956.5,6,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.97849464
+48,1117,Anting,121.157449346,31.29037688,25706.0,28,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.98207885
+49,1118,Shanghai Automobile City,121.176250907,31.28729941,27244.5,10,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.9713262
+50,1119,East Changji Road,121.195922139,31.295550108,30130.0,3,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.9641577
+51,1120,Shanghai Circuit,121.221647938,31.33387003,,0,800.0,-1,unknown_no_housing_match,False,
+52,1633,Dishui Lake,121.925777167,30.909305386,,0,800.0,-1,unknown_no_housing_match,False,
+53,1020,Longbai Xincun,121.365793331,31.179095825,57460.0,58,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.5949821
+54,1153,Longyao Road,121.455131976,31.161590898000004,61423.0,11,800.0,0,economically_advantaged_higher_local_housing_price,True,0.46953404
+55,1131,North Jiading,121.232947442,31.393474009,33709.5,12,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.93189967
+56,1132,West Jiading,121.223424041,31.379042743000003,34167.0,17,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.9283154
+57,1133,Baiyin Road,121.240967331,31.347225544,40099.0,21,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.88530463
+58,622,South Lingyan Road,121.490806173,31.150842633000003,55319.0,53,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.64874554
+59,623,Shangnan Road,121.502354461,31.15110376,55310.5,42,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.65232974
+60,112,Waihuanlu,121.38849586,31.12298734,53087.0,27,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.6971326
+61,113,Lianhua Road,121.39828804,31.132883499,56899.0,30,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.61648744
+62,114,Jinjiang Amusement Park,121.409494683,31.144053983000003,61267.0,47,800.0,0,economically_advantaged_higher_local_housing_price,True,0.48028675
+63,1139,Wuwei Road,121.360455468,31.278154062,52631.0,1,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.7096774
+64,628,Linyi Xincun,121.512700268,31.195301069,62371.5,42,800.0,0,economically_advantaged_higher_local_housing_price,True,0.4516129
+65,629,Shanghai Children's Medical Center,121.51890689,31.204842461,71428.0,39,800.0,0,economically_advantaged_higher_local_housing_price,True,0.22939068
+66,1142,Shanghai West Railway Station,121.396085821,31.264540771,59037.0,49,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.5555556
+67,119,Hengshan Road,121.441944506,31.206619041,112244.0,227,800.0,0,economically_advantaged_higher_local_housing_price,True,0.010752688
+68,1144,Fengqiao Road,121.406511864,31.243749563,62416.0,57,800.0,0,economically_advantaged_higher_local_housing_price,True,0.4408602
+69,633,Yuanshen Sports Center,121.530378145,31.235143094,79467.5,58,800.0,0,economically_advantaged_higher_local_housing_price,True,0.12903225
+70,634,Minsheng Road,121.53961142,31.238147385,78203.5,58,800.0,0,economically_advantaged_higher_local_housing_price,True,0.1469534
+71,635,Beiyangjing Road,121.547873193,31.24121507,79545.0,65,800.0,0,economically_advantaged_higher_local_housing_price,True,0.12544803
+72,124,Xinzha Road,121.463493379,31.24067856,85540.5,138,800.0,0,economically_advantaged_higher_local_housing_price,True,0.07526882
+73,637,Yunshan Road,121.568640821,31.252628085,66231.5,46,800.0,0,economically_advantaged_higher_local_housing_price,True,0.3512545
+74,638,Jinqiao Road,121.577716757,31.259449703,64266.0,36,800.0,0,economically_advantaged_higher_local_housing_price,True,0.39784947
+75,127,Zhongshan North Road,121.454688131,31.260741938,61957.5,118,800.0,0,economically_advantaged_higher_local_housing_price,True,0.45878136
+76,128,Yanchang Road,121.450712025,31.273307641,66363.0,97,800.0,0,economically_advantaged_higher_local_housing_price,True,0.34767026
+77,129,Shanghai Circus City,121.447341668,31.281257251,69166.0,37,800.0,0,economically_advantaged_higher_local_housing_price,True,0.26881722
+78,130,Wenshui Road,121.445587497,31.29447578,75421.0,9,800.0,0,economically_advantaged_higher_local_housing_price,True,0.1827957
+79,131,Pengpu Xincun,121.444082899,31.30850675,55080.0,71,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.6630824
+80,132,Gongkang Road,121.442452627,31.320858825,52354.5,74,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.72043014
+81,133,Tonghe Xincun,121.436929642,31.332913486,53087.0,27,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.6971326
+82,134,Hulan Road,121.433106054,31.341600756,49821.5,12,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.75268817
+83,135,Gongfu Xincun,121.429488802,31.356902294,40464.0,11,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.8817204
+84,136,Bao'an Highway,121.42634765,31.371233449,44520.0,17,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.8100358
+85,137,West Youyi Road,121.423323482,31.382958896,43671.0,4,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.82437277
+86,138,Fujin Road,121.420030689,31.393999581,46839.0,6,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.781362
+87,1163,Disney Resort,121.663732891,31.143438744,,0,800.0,-1,unknown_no_housing_match,False,
+88,1134,Jiading New City,121.249887524,31.332106143,43295.0,18,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.827957
+89,1135,Malu,121.272439838,31.321597357,24102.0,7,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.98566306
+90,1323,Fengzhuang,121.350698505,31.244292623000003,52047.0,22,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.734767
+91,624,West Huaxia Road,121.510363399,31.15192965,60942.0,32,800.0,0,economically_advantaged_higher_local_housing_price,True,0.4874552
+92,1051,Shanghai Library,121.441741894,31.211194198,120000.0,281,800.0,0,economically_advantaged_higher_local_housing_price,True,0.0035842294
+93,625,Gaoqing Road,121.511143798,31.161859926,69397.5,12,800.0,0,economically_advantaged_higher_local_housing_price,True,0.26164874
+94,1250,Shenjiang Road,121.622624106,31.282334324,85185.0,3,800.0,0,economically_advantaged_higher_local_housing_price,True,0.07885305
+95,1223,Donglan Road,121.387228456,31.15770063,62916.0,27,800.0,0,economically_advantaged_higher_local_housing_price,True,0.41935483
+96,626,Dongming Road,121.506212539,31.174923735,59433.0,39,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.53405017
+97,824,Luheng Road,121.493805184,31.120878108000003,55000.0,11,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.6666667
+98,1063,Guoquan Road,121.50566807,31.291328446,65575.0,64,800.0,0,economically_advantaged_higher_local_housing_price,True,0.36200717
+99,1046,Shuicheng Road,121.38734927,31.201321803000003,64885.0,31,800.0,0,economically_advantaged_higher_local_housing_price,True,0.37992832
+100,1141,Liziyuan,121.385192546,31.270865609,38888.0,25,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.90681005
+101,1220,Qixin Road,121.35721193,31.132914547,62631.0,11,800.0,0,economically_advantaged_higher_local_housing_price,True,0.43369177
+102,1221,Hongxin Road,121.375669938,31.139418878,62720.0,19,800.0,0,economically_advantaged_higher_local_housing_price,True,0.4265233
+103,1222,Gudai Road,121.387239321,31.142693849,65509.0,11,800.0,0,economically_advantaged_higher_local_housing_price,True,0.3655914
+104,1140,Qilianshan Road,121.371234343,31.273492779,38888.0,7,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.90681005
+105,1224,Hongmei Road,121.392662297,31.162296375,58629.5,26,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.56630826
+106,1225,Hongcao Road,121.40572841,31.166154493,62132.0,20,800.0,0,economically_advantaged_higher_local_housing_price,True,0.45519713
+107,1226,Guilin Park,121.415287723,31.169028586,69509.0,46,800.0,0,economically_advantaged_higher_local_housing_price,True,0.2580645
+108,1143,Zhenru,121.402592639,31.252631342,58336.5,32,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.57347673
+109,721,Meilan Lake,121.345259511,31.403775779,40748.0,11,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.8781362
+110,722,Luonan Xincun,121.35280146,31.39059269,33542.5,16,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.9354839
+111,723,Panguang Road,121.351598417,31.365445218,41818.0,3,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.8637993
+112,724,Liu Hang,121.357774726,31.359381323,40753.0,10,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.87455195
+113,725,Gucun Park,121.368320304,31.34649161,43859.0,7,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.8172043
+114,726,Qihua Road,121.368834677,31.324270359,52267.0,8,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.72759855
+115,727,Shanghai University,121.384324697,31.322373451,51058.5,10,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.7455197
+116,728,Nanchen Road,121.394081532,31.323554777,55309.5,4,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.65591395
+117,729,Shangda Road,121.404049079,31.316758855,48837.0,13,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.7670251
+118,730,Changzhong Road,121.408605124,31.305631244,47953.0,27,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.7777778
+119,731,Dachang Town,121.411602017,31.29507342,57214.0,17,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.61290324
+120,732,Xingzhi Road,121.417174701,31.285986202,57738.0,49,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.5842294
+121,733,Dahua San Road,121.418482486,31.275723943000003,56710.0,69,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.6236559
+122,734,Xincun Road,121.417997974,31.26563162,60000.0,61,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.50537634
+123,735,Langao Road,121.417161444,31.257880611,59574.0,61,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.5268817
+124,1248,North Yanggao Road,121.598573379,31.282251196,52184.0,34,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.7311828
+125,1249,Jinjing Road,121.610593785,31.281820276,49070.0,15,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.76344085
+126,738,Changping Road,121.43788726,31.235646924,80724.0,255,800.0,0,economically_advantaged_higher_local_housing_price,True,0.10752688
+127,639,Boxing Road,121.582521596,31.265715972,59770.5,46,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.516129
+128,636,Deping Road,121.559841511,31.247492601,59321.5,66,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.54480284
+129,234,East Xujing,121.295031968,31.190426253,30346.0,5,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.9605735
+130,747,Yuntai Road,121.496129096,31.18446681,58870.5,30,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.5591398
+131,237,Songhong Road,121.355346112,31.22001095,59765.5,18,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.5197133
+132,238,Beixinjing,121.369712386,31.218084283000003,70597.5,16,800.0,0,economically_advantaged_higher_local_housing_price,True,0.24014337
+133,239,Weining Road,121.382591045,31.216888017,74470.0,30,800.0,0,economically_advantaged_higher_local_housing_price,True,0.19354838
+134,240,Loushanguan Road,121.399743041,31.213019401,52288.5,24,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.72401434
+135,753,Huamu Road,121.558661905,31.213026204,94807.5,8,800.0,0,economically_advantaged_higher_local_housing_price,True,0.039426524
+136,1321,Jinyun Road,121.314864878,31.242815574,45333.0,17,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.79569894
+137,1150,Shanghai Swimming Center,121.436739009,31.181366331,74165.5,66,800.0,0,economically_advantaged_higher_local_housing_price,True,0.20430107
+138,247,Lujiazui,121.4979311,31.240237146,39619.0,15,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.8888889
+139,248,Dongchang Road,121.511146849,31.235374664,73431.0,56,800.0,0,economically_advantaged_higher_local_housing_price,True,0.21863799
+140,2004,Jufeng Road,121.584260909,31.282831741,59980.0,20,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.50896055
+141,250,Shanghai Science and Technology Museum,121.54035992,31.220820317,69327.0,7,800.0,0,economically_advantaged_higher_local_housing_price,True,0.26523298
+142,251,Century Park,121.546610423,31.211428964,82155.5,50,800.0,0,economically_advantaged_higher_local_housing_price,True,0.086021505
+143,253,Zhangjiang Hi-Tech Park,121.583445308,31.204000442,28075.0,9,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.9677419
+144,254,Jinke Road,121.597840355,31.206443837,79671.5,6,800.0,0,economically_advantaged_higher_local_housing_price,True,0.1218638
+145,255,Guanglan Road,121.616923077,31.213126633,64488.0,18,800.0,0,economically_advantaged_higher_local_housing_price,True,0.38709676
+146,256,Tangzhen,121.652313671,31.216483578,50663.5,12,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.74910396
+147,257,Chuangxin Central Road,121.669574879,31.215686458,,0,800.0,-1,unknown_no_housing_match,False,
+148,258,East Huaxia Road,121.676664195,31.198756563000003,42951.0,41,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.83154124
+149,259,Chuansha,121.69397627,31.188872391,41379.0,49,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.86738354
+150,260,Lingkong Road,121.719371563,31.194796045,10500.0,1,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.9964158
+151,261,Yuandong Avenue,121.751012842,31.201430591,,0,800.0,-1,unknown_no_housing_match,False,
+152,262,Haitian 3rd Road,121.792700291,31.170492685,,0,800.0,-1,unknown_no_housing_match,False,
+153,263,Pudong International Airport,121.801903153,31.152450366,,0,800.0,-1,unknown_no_housing_match,False,
+154,1239,Tilanqiao,121.502585748,31.255518759,67153.0,17,800.0,0,economically_advantaged_higher_local_housing_price,True,0.31182796
+155,642,Dongjing Road,121.584663712,31.293153416,59505.0,9,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.53046596
+156,643,Wuzhou Avenue,121.585133606,31.304728889,75858.0,6,800.0,0,economically_advantaged_higher_local_housing_price,True,0.16845877
+157,1241,Jiangpu Park,121.519166426,31.266534411,66431.0,92,800.0,0,economically_advantaged_higher_local_housing_price,True,0.34408602
+158,644,Zhouhai Road,121.585223441,31.314421091,67892.0,4,800.0,0,economically_advantaged_higher_local_housing_price,True,0.28315413
+159,640,Wulian Road,121.58378743,31.27414907,53353.0,41,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.69175625
+160,1322,West Jinshajiang Road,121.330754923,31.243072825,49202.0,4,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.75985664
+161,1242,Ningguo Road,121.527936109,31.270559692,66777.0,65,800.0,0,economically_advantaged_higher_local_housing_price,True,0.32616487
+162,645,South Waigaoqiao Free Trade Zone Station,121.59778165,31.323763133000003,,0,800.0,-1,unknown_no_housing_match,False,
+163,1243,Longchang Road,121.540707808,31.277458786,59397.5,58,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.53763443
+164,646,Hangjin Road,121.589807171,31.337549811,48756.0,14,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.7706093
+165,1329,Wuning Road,121.425915093,31.236185753,69626.0,147,800.0,0,economically_advantaged_higher_local_housing_price,True,0.25448027
+166,1244,Aiguo Road,121.548415693,31.281994036,55643.0,29,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.6451613
+167,1152,Yunjin Road,121.453824439,31.169478023000003,69921.5,20,800.0,0,economically_advantaged_higher_local_housing_price,True,0.24731183
+168,647,North Waigaoqiao Free Trade Zone Station,121.582724831,31.349940744,45162.5,18,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.79928315
+169,1324,South Qilianshan Road,121.362869603,31.239405116,57977.5,30,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.57706094
+170,1325,Zhenbei Road,121.377228761,31.234191683,57894.0,13,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.58064514
+171,1326,Daduhe Road,121.389819686,31.233673981,63076.0,51,800.0,0,economically_advantaged_higher_local_housing_price,True,0.41577062
+172,1245,Fuxing Island,121.557010351,31.282961224,53571.0,11,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.68817204
+173,648,Gangcheng Road,121.570374974,31.355142146,42535.0,19,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.8422939
+174,1331,Jiangning Road,121.440163596,31.246266848,67358.0,114,800.0,0,economically_advantaged_higher_local_housing_price,True,0.3046595
+175,820,Shendu Highway,121.507905886,31.063523541,21750.0,2,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.9892473
+176,821,Lianhang Road,121.506222033,31.075710319,33333.0,11,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.9390681
+177,822,Jiangyue Road,121.504236848,31.086342078,47983.0,5,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.7741935
+178,823,Pujiang Town,121.501874632,31.098688359,59047.0,5,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.5519713
+179,312,Shilong Road,121.438667977,31.159856731,62411.5,20,800.0,0,economically_advantaged_higher_local_housing_price,True,0.44802868
+180,825,Lingzhao Xincun,121.48489117,31.143021235,51182.0,20,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.7419355
+181,314,Caoxi Road,121.433731362,31.178643733,73792.0,65,800.0,0,economically_advantaged_higher_local_housing_price,True,0.21146953
+182,827,Yangsi,121.488937814,31.162962578,56634.0,65,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.63261646
+183,828,Chengshan Road,121.4918544,31.172546018,57346.5,50,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.60215056
+184,931,Caohejing Hi-Tech Park,121.393065079,31.172459594,55172.0,17,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.6594982
+185,830,China Art Museum,121.489343642,31.18724117,57273.5,10,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.609319
+186,1333,Shanghai Natural History Museum,121.457823884,31.238327541,92270.0,146,800.0,0,economically_advantaged_higher_local_housing_price,True,0.04659498
+187,1238,International Cruise Terminal,121.494592057,31.252401124,77039.0,12,800.0,0,economically_advantaged_higher_local_housing_price,True,0.1577061
+188,834,Great World,121.474712385,31.229130521,72374.0,96,800.0,0,economically_advantaged_higher_local_housing_price,True,0.22222222
+189,505,Zhuanqiao,121.397229638,31.068926951,41180.0,24,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.87096775
+190,846,Huangxing Park,121.52862169,31.298126414,63157.0,41,800.0,0,economically_advantaged_higher_local_housing_price,True,0.41218638
+191,325,Dongbaoxing Road,121.475714615,31.26190605,64021.0,61,800.0,0,economically_advantaged_higher_local_housing_price,True,0.4014337
+192,838,North Xizang Road,121.464264315,31.265306644,59375.0,111,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.54121864
+193,327,Chifeng Road,121.477955068,31.283218029,61375.0,11,800.0,0,economically_advantaged_higher_local_housing_price,True,0.47311828
+194,328,Dabaishu,121.47870274,31.291415275,65484.0,12,800.0,0,economically_advantaged_higher_local_housing_price,True,0.3691756
+195,329,Jiangwan Town,121.480588797,31.307468902,62576.0,38,800.0,0,economically_advantaged_higher_local_housing_price,True,0.43727598
+196,330,West Yingao Road,121.480433603,31.321846932,52360.0,19,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.71684587
+197,331,South Changjiang Road,121.487004553,31.333957359,60619.5,16,800.0,0,economically_advantaged_higher_local_housing_price,True,0.49103943
+198,332,Songfa Road,121.495949213,31.347075743,44852.0,13,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.8028674
+199,333,Zhanghuabang,121.494268593,31.359927177,38888.0,3,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.90681005
+200,334,Songbin Road,121.488635629,31.372264208,42222.0,31,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.8530466
+201,335,Shuichan Road,121.483768106,31.383177516,45822.0,15,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.7921147
+202,336,Baoyang Road,121.475066666,31.397184356,53850.0,10,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.67741936
+203,337,Youyi Road,121.471384511,31.405920883,46392.5,14,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.78853047
+204,338,Tieli Road,121.456448336,31.409918876,42520.5,2,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.8458781
+205,339,North Jiangyang Road,121.435081311,31.409673404,39542.0,15,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.89605737
+206,932,Guilin Road,121.413652527,31.176699229,70744.0,56,800.0,0,economically_advantaged_higher_local_housing_price,True,0.23655914
+207,1338,World Expo Museum,121.477251581,31.199280653,77756.0,97,800.0,0,economically_advantaged_higher_local_housing_price,True,0.15412186
+208,847,Xiangyin Road,121.527501152,31.307201218000003,63162.5,46,800.0,0,economically_advantaged_higher_local_housing_price,True,0.40860215
+209,1339,Expo Avenue,121.479708201,31.18501371,72369.0,2,800.0,0,economically_advantaged_higher_local_housing_price,True,0.22580644
+210,1137,Nanxiang,121.318651748,31.298837137,42655.0,40,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.83512545
+211,744,Houtan,121.469379488,31.174029921,62868.0,2,800.0,0,economically_advantaged_higher_local_housing_price,True,0.42293906
+212,745,Changqing Road,121.481698094,31.17661023,58708.0,43,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.562724
+213,507,Beiqiao,121.405430474,31.04699477,39344.0,9,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.8996416
+214,848,Nenjiang Road,121.527373151,31.316802024,58506.0,37,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.56989247
+215,1155,Sanlin,121.507435391,31.14525371,52896.0,24,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.7060932
+216,1138,Taopu Xincun,121.345054448,31.283439299,44667.0,26,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.8064516
+217,749,South Yanggao Road,121.520047669,31.189639158,59814.0,47,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.5125448
+218,2042,Luoshan Road,121.588971931,31.155506111,68576.5,2,800.0,0,economically_advantaged_higher_local_housing_price,True,0.27598566
+219,750,Jinxiu Road,121.535752807,31.189635096,65309.0,29,800.0,0,economically_advantaged_higher_local_housing_price,True,0.37275985
+220,918,South Songjiang Railway Station,121.226390216,30.987130812,,0,800.0,-1,unknown_no_housing_match,False,
+221,919,Zuibaichi,121.224717028,31.002760868000003,27038.5,18,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.9749104
+222,920,Songjiang Sports Center,121.226364779,31.018055817,31596.5,38,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.9498208
+223,921,Songjiang New City,121.226340383,31.032245093,34813.0,16,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.9247312
+224,922,Songjiang University Town,121.228252415,31.056164209,46700.5,10,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.78494626
+225,751,Fanghua Road,121.545954276,31.194881433000003,61089.0,37,800.0,0,economically_advantaged_higher_local_housing_price,True,0.48387095
+226,924,Sheshan,121.225311253,31.10625363,37633.0,10,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.9175627
+227,413,Lingping Road,121.49643205,31.262993787,74201.0,31,800.0,0,economically_advantaged_higher_local_housing_price,True,0.20071685
+228,849,Shiguang Road,121.527610735,31.324729476,56817.0,46,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.6200717
+229,415,Yangshupu Road,121.512674289,31.254056501,52999.0,16,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.702509
+230,416,Pudong Avenue,121.514986935,31.242168231,73638.0,65,800.0,0,economically_advantaged_higher_local_housing_price,True,0.21505377
+231,929,Xingzhong Road,121.364298895,31.160014256,53787.0,19,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.6810036
+232,930,Hechuan Road,121.380123957,31.168432353000004,56341.5,22,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.63799286
+233,923,Dongjing,121.226085386,31.086565625,10641.0,5,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.9928315
+234,420,Tangqiao,121.514379872,31.211791632,66666.0,75,800.0,0,economically_advantaged_higher_local_housing_price,True,0.33512545
+235,421,Nanpu Bridge,121.494964097,31.210345047,78199.0,72,800.0,0,economically_advantaged_higher_local_housing_price,True,0.15053764
+236,423,Luban Road,121.470721641,31.201255467,79205.5,164,800.0,0,economically_advantaged_higher_local_housing_price,True,0.13261649
+237,937,Dapuqiao,121.464086845,31.208456707,92592.0,181,800.0,0,economically_advantaged_higher_local_housing_price,True,0.043010753
+238,426,Shanghai Stadium,121.438950452,31.187352492,75440.0,119,800.0,0,economically_advantaged_higher_local_housing_price,True,0.17921147
+239,940,Xiaonanmen,121.494041588,31.219075141,84597.5,122,800.0,0,economically_advantaged_higher_local_housing_price,True,0.08243728
+240,941,Shangcheng Road,121.512034464,31.232726476,74058.0,73,800.0,0,economically_advantaged_higher_local_housing_price,True,0.20788531
+241,925,Sijing,121.2559243,31.120403035,39603.0,13,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.8924731
+242,840,Quyang Road,121.486134081,31.278512493,65853.0,23,800.0,0,economically_advantaged_higher_local_housing_price,True,0.35842294
+243,926,Jiuting,121.315099332,31.139406939,30943.0,22,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.953405
+244,927,Zhongchun Road,121.332241062,31.150968837,56681.0,10,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.6272401
+245,842,Anshan Xincun,121.505160723,31.275299223,67365.0,111,800.0,0,economically_advantaged_higher_local_housing_price,True,0.29928315
+246,2037,Jiaotong University,121.429716393,31.203733942,103352.5,128,800.0,0,economically_advantaged_higher_local_housing_price,True,0.025089607
+247,1157,Pusan Road,121.534488832,31.153109847,54847.0,15,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.6702509
+248,928,Qibao,121.345076273,31.157421516,52483.0,59,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.71326166
+249,843,Jiangpu Road,121.513485367,31.276923954,67443.5,102,800.0,0,economically_advantaged_higher_local_housing_price,True,0.2939068
+250,502,Chunshen Road,121.381178577,31.100133212,51724.0,29,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.7383512
+251,844,Huangxing Road,121.523979949,31.280810293,62415.0,81,800.0,0,economically_advantaged_higher_local_housing_price,True,0.44444445
+252,503,Yindu Road,121.385726775,31.091103672,44386.0,15,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.8136201
+253,1019,Ziteng Road,121.360100502,31.171575037,57314.0,30,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.60573477
+254,845,Middle Yanji Road,121.530621364,31.290009786,60012.0,84,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.50179213
+255,2001,Zhongtan Road,121.436350839,31.256450861,59646.0,60,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.5232975
+256,2002,South Xizang Road,121.485172565,31.203927157,80851.0,101,800.0,0,economically_advantaged_higher_local_housing_price,True,0.10035843
+257,2003,Zhaojiabang Road,121.445871009,31.200675112,91499.0,184,800.0,0,economically_advantaged_higher_local_housing_price,True,0.050179213
+258,511,Huaning Road,121.390678018,31.00938857,36491.0,19,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.9211469
+259,2005,Hongkou Football Stadium,121.47470204,31.273254588,56634.0,29,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.63261646
+260,2006,Dong'an Road,121.4499314,31.19256869,76660.0,89,800.0,0,economically_advantaged_higher_local_housing_price,True,0.16129032
+261,2007,Damuqiao Road,121.458937996,31.195957765,75790.0,113,800.0,0,economically_advantaged_higher_local_housing_price,True,0.17204301
+262,2008,Laoximen,121.478279894,31.221015196,82051.0,153,800.0,0,economically_advantaged_higher_local_housing_price,True,0.089605734
+263,2009,Jinshajiang Road,121.408591207,31.234008201,64291.0,79,800.0,0,economically_advantaged_higher_local_housing_price,True,0.390681
+264,2010,Century Avenue,121.522955917,31.230803895,81825.5,78,800.0,0,economically_advantaged_higher_local_housing_price,True,0.09318996
+265,2011,Xinzhuang,121.380839538,31.112983939,54341.0,33,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.6738351
+266,2012,Longhua,121.448485485,31.17485915,68627.0,45,800.0,0,economically_advantaged_higher_local_housing_price,True,0.27240142
+267,2013,Hongqiao Terminal 2,121.321717626,31.196484051,,0,800.0,-1,unknown_no_housing_match,False,
+268,2014,Hongqiao Railway Station,121.313063017,31.196155828,,0,800.0,-1,unknown_no_housing_match,False,
+269,2015,Lancun Road,121.524302062,31.213714866,66798.0,59,800.0,0,economically_advantaged_higher_local_housing_price,True,0.32258064
+270,2016,Yaohua Road,121.490091266,31.180529911,57604.0,36,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.5913978
+271,2017,Changshu Road,121.446512851,31.215311025,122754.5,300,800.0,0,economically_advantaged_higher_local_housing_price,True,0.0
+272,2018,Siping Road,121.497061344,31.276968216,67365.0,53,800.0,0,economically_advantaged_higher_local_housing_price,True,0.29928315
+273,2019,East Nanjing Road,121.478953029,31.239024894,81800.5,124,800.0,0,economically_advantaged_higher_local_housing_price,True,0.09677419
+274,2020,Changshou Road,121.433696872,31.241718375,61764.0,211,800.0,0,economically_advantaged_higher_local_housing_price,True,0.4623656
+275,2021,Qufu Road,121.467113891,31.244662253,74449.0,113,800.0,0,economically_advantaged_higher_local_housing_price,True,0.19713262
+276,2022,Jinhai Road,121.634358453,31.266432375,30667.5,2,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.9569892
+277,2023,West Gaoke Road,121.505517848,31.187777365,60316.5,44,800.0,0,economically_advantaged_higher_local_housing_price,True,0.4982079
+278,2024,Zhenping Road,121.425155934,31.248182892,61679.0,106,800.0,0,economically_advantaged_higher_local_housing_price,True,0.46594983
+279,2025,Xujiahui,121.433617821,31.193882267,86928.0,137,800.0,0,economically_advantaged_higher_local_housing_price,True,0.0609319
+280,2026,Tiantong Road,121.47772089,31.246365172,78431.0,65,800.0,0,economically_advantaged_higher_local_housing_price,True,0.14336918
+281,2027,Shanghai South Railway Station,121.425368538,31.15649931,66855.0,29,800.0,0,economically_advantaged_higher_local_housing_price,True,0.31899643
+282,2028,South Huangpi Road,121.468716902,31.224666072,102840.5,132,800.0,0,economically_advantaged_higher_local_housing_price,True,0.028673835
+283,2029,Shanghai Indoor Stadium,121.431603228,31.183782631,79912.0,71,800.0,0,economically_advantaged_higher_local_housing_price,True,0.11469534
+284,2030,Baoshan Road,121.471816719,31.253456818000004,64800.0,81,800.0,0,economically_advantaged_higher_local_housing_price,True,0.38351256
+285,2045,Longhua Middle Road,121.452651529,31.186257229,75051.0,42,800.0,0,economically_advantaged_higher_local_housing_price,True,0.18996416
+286,2032,Dalian Road,121.508367336,31.26024083,67309.5,30,800.0,0,economically_advantaged_higher_local_housing_price,True,0.30824372
+287,2033,Jiashan Road,121.456454874,31.204614556,96629.0,239,800.0,0,economically_advantaged_higher_local_housing_price,True,0.035842296
+288,2034,Shanghai Railway Station,121.451257271,31.249149419,59277.0,54,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.5483871
+289,2035,People's Square,121.470457083,31.234865971,86842.0,127,800.0,0,economically_advantaged_higher_local_housing_price,True,0.06451613
+290,2036,Lujiabang Road,121.481629339,31.213855096,78825.0,196,800.0,0,economically_advantaged_higher_local_housing_price,True,0.13620071
+291,510, Jingping Road,121.405597024,31.013174969,42201.0,33,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.8566308
+292,2038,Caobao Road,121.430310384,31.170171562,71278.0,83,800.0,0,economically_advantaged_higher_local_housing_price,True,0.23297492
+293,2039,Hanzhong Road,121.454089429,31.24375272,75371.0,82,800.0,0,economically_advantaged_higher_local_housing_price,True,0.18637992
+294,2040,Oriental Sports Center,121.476423914,31.15531154,66192.5,2,800.0,0,economically_advantaged_higher_local_housing_price,True,0.3548387
+295,2041,West Nanjing Road,121.455627903,31.231607822,107043.0,195,800.0,0,economically_advantaged_higher_local_housing_price,True,0.021505376
+296,1018,Hangzhong Road,121.350339687,31.167316837,49431.0,30,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.7562724
+297,2043,Zhongshan Park,121.412622045,31.220078902,69710.0,41,800.0,0,economically_advantaged_higher_local_housing_price,True,0.25089607
+298,2044,Hongqiao Road,121.416178272,31.199283289,76642.0,59,800.0,0,economically_advantaged_higher_local_housing_price,True,0.16487455
+299,509,Dongchuan Road,121.415276286,31.020129531,43738.0,22,800.0,1,economically_disadvantaged_lower_local_housing_price,True,0.8207885
+300,2046,West Yan'an Road,121.412433163,31.21145601,79768.0,33,800.0,0,economically_advantaged_higher_local_housing_price,True,0.11827957
+301,2047,Hailun Road,121.485286062,31.260924792,68080.0,35,800.0,0,economically_advantaged_higher_local_housing_price,True,0.2795699
