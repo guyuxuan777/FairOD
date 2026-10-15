@@ -14,8 +14,5 @@ The paper evaluates FairOD on three real-world datasets—NYC Taxi, Chicago Taxi
 - `fairod/dual_gat.py`: Graph attention encoder with distinct origin and destination roles.
 - `fairod/fair_mamba.py`, `fairod/temporal.py`: Fairness-aware temporal modeling and transition constraints.
 - `fairod/asynchronous_bias.py`: Modeling of historical OD bias impacts.
-- `fairod/data.py`: OD data loading, window construction, and chronological splitting.
-
-
 
 
