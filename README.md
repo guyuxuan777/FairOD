@@ -1,6 +1,6 @@
 # FairOD
 
-FairOD is a fairness-aware framework for origin-destination (OD) flow prediction in urban mobility. It addresses prediction disparities across socioeconomic groups in origin and destination roles, temporal bias drift, and asynchronous bias propagation across OD flows.
+FairOD is a fairness-aware framework for origin-destination (OD) flow prediction in urban mobility. It addresses prediction disparities across sensitive attribute groups in origin and destination roles, temporal bias drift, and asynchronous bias propagation across OD flows.
 
 ## Method Overview
 
